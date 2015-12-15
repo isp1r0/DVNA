@@ -1,4 +1,4 @@
-![DVNA](http://devstickers.com/assets/img/cat/nodejs.png, "DVNA")
+![DVNA logo](http://devstickers.com/assets/img/cat/nodejs.png)
 
 # DVNA
 Damn Vulnerable Node Application (DVNA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
