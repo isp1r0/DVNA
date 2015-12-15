@@ -1,7 +1,10 @@
-var express = require('express');
-var app = express();
-app.get('/', function(req, res) {
-  var resp=eval("("+req.query.target+")");
-  res.send('Parameter Value:</br>'+resp);
-  });
-app.listen(9000);
+var e = require("express");
+var DVNA = e();
+DVNA.get('/', function(req, res) {
+});
+DVNA.listen(6666);
+
+// TODO: Create ASCII art for console management
+console.log("\r\n   Damn Vulnerable Node Application ");
+console.log("  https://github.com/quantumfoam/DVNA \r\n");
+console.log("DVNA listening at: https://127.0.0.1:6666/");
