@@ -1,7 +1,6 @@
 ![DVNA logo](https://github.com/quantumfoam/DVNA/blob/master/dvna.jpg)
 
-# DVNA
-Damn Vulnerable Node Application (DVNA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
+Damn Vulnerable Node Application (DVNA) is a node.js web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment or to serve as a cyber range for capture the flag events.
 
 The aim of DVNA is to **practice some of the most common web vulnerability**, with **various difficultly levels**, with a simple straightforward interface.
 Please note, there are **both documented and undocumented vulnerability** with this software. This is intentional. You are encouraged to try and discover as many issues as possible.
@@ -43,14 +42,6 @@ along with Damn Vulnerable Node Application (DVNA).  If not, see http://www.gnu.
 
 ## Installation
 
-### Windows + XAMPP
-
-### Linux Packages
-
-If you are using a Debian based Linux distribution, you will need to install the following packages _(or their equivalent)_:
-
-`apt-get -y install apache2 mysql-server php5 php5-mysql php5-gd`
-
 ### Database Setup
 
 ```
@@ -72,11 +63,3 @@ For the latest troubleshooting information please visit:
 ```
 
 - - -
-
-## Links
-
-Homepage:
-
-Project Home:
-
-*Created by Claudio Lacayo*
